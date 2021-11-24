@@ -1,1 +1,1 @@
-Ejercicio de GIT por Erika Yohanna Echeverri Herrera, tengo dos repositorios compartidos, en este tengo el ejercicio de GIT y en eyecheveh/EjercicioJavaScriptErika Echeverri tengo los ejercicios de JavaScript
+Ejercicio de GIT por Erika Yohanna Echeverri Herrera, tengo dos repositorios compartidos, en este tengo el ejercicio de GIT y en eyecheveh/EjercicioJavaScriptErikaEcheverri tengo los ejercicios de JavaScript
